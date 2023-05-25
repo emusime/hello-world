@@ -4,7 +4,7 @@
 
 👀 I’m interested in coding
 
-🌱 I’m currently learning Software Engineering
+🌱 I’m currently learning Comp Sci.
 
 💞️ I’m looking to collaborate on projects and solutions
 
